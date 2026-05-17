@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219321541340",
+    "project_id": "mind-heist-1c9fe",
+    "storage_bucket": "mind-heist-1c9fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219321541340:android:9cd42ef4c5889bd4ab8a19",
+        "android_client_info": {
+          "package_name": "com.example.mind_heist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjU5r0DsdtakpHArA40e4gOWgpjMMXow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
